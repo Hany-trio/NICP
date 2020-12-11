@@ -1,5 +1,5 @@
 # NICP
-This is a simple implement for NICP（Normal Iterative Closest Point）, a variants of the ICP(Iterative Closest Point).
+This is a simple implement for NICP（Normal Iterative Closest Point）, a variants of ICP(Iterative Closest Point).
 But there are some differences with [1].
 
 # REFERENCE
